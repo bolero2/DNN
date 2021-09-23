@@ -1,0 +1,16 @@
+tensorflow==2.3.0
+# or 2.4.0 + CUDA 11.0 + cudnn8
+Keras
+scikit-learn
+matplotlib
+pandas
+numpy==1.18.5
+opencv-python==4.1.0.25
+graphviz
+Pillow
+pydot
+tqdm
+
+
+#!/bin/bash
+# apt install graphviz
